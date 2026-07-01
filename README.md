@@ -20,7 +20,7 @@ Production-ready React streaming chat UI for AI applications.
 ## Demo
 
 <p align="center">
-  <img src="assets/demo.gif" alt="React Streaming Chat Demo" width="900">
+  <img src="src/assets/Demo.gif" alt="React Streaming Chat Demo" width="900">
 </p>
 
 ---
