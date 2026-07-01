@@ -13,12 +13,15 @@ Dark theme · Real-time token streaming · Tool call indicators · Multi-model s
 
 [Screenshot coming soon]
 
+# React Streaming Chat Boilerplate
+
+Production-ready React streaming chat UI for AI applications.
 
 ## Demo
 
-Watch the local demo video:
-
-[Demo.mov](./Demo.mov)
+<p align="center">
+  <img src="assets/demo.gif" alt="React Streaming Chat Demo" width="900">
+</p>
 
 ---
 
